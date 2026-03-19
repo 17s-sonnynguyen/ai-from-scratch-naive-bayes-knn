@@ -196,4 +196,4 @@ notebooks/01_naive_bayes_knn_from_scratch.ipynb
 
 This project is not about performance — it is about **understanding**.
 
-Every line of code is written to reflect the underlying mathematics as clearly as possible.s
+Every line of code is written to reflect the underlying mathematics as clearly as possible.
